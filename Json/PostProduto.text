@@ -1,0 +1,15 @@
+// http://localhost:8080/produto/cadastrarProduto
+[
+  {
+    "nome": "Nintendo Switch",
+    "precoVenda": 2000,
+    "precoCusto": 1800,
+    "estoque": 30
+  },
+  {
+    "nome": "Fone de ouvido Xion",
+    "precoVenda": 150,
+    "precoCusto": 80,
+    "estoque": 90
+  }
+]

@@ -1,0 +1,11 @@
+// http://localhost:8080/pessoa/cadastrarPessoa
+[
+    { 
+        "nome": "Paulo",
+        "email": "paulo@gmail.com"
+    },
+    {
+        "nome": "Alex",
+        "email": "alex@gmail.com"
+    }
+]
